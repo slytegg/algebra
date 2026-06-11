@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="position: fixed; top: 0; left: 0;">
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>The Princeton Review | Test Prep, Tutoring &amp; College Admissions</title>
+        <meta
+          name="description"
+          content="The Princeton Review provides test prep, tutoring, and college admissions guidance for students preparing for SAT, ACT, AP, and more."
+        />
+        <meta
+          property="og:title"
+          content="The Princeton Review | Test Prep, Tutoring &amp; College Admissions"
+        />
+        <meta
+          property="og:description"
+          content="The Princeton Review provides test prep, tutoring, and college admissions guidance for students preparing for SAT, ACT, AP, and more."
+        />
+        <meta property="og:url" content="https://www.princetonreview.com" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="The Princeton Review" />
+        <meta name="application-name" content="The Princeton Review" />
+      </head>
+      <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; padding: 0; overflow: hidden;">
+        <iframe style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"
+                id="test"
+                src="./index.html">
+        </iframe>
+      </body>
+    </html>
+  </foreignObject>
+</svg>
